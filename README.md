@@ -1,4 +1,6 @@
-### Hey, whassup? 
+### Hey, whassup? 👋
+
+### About me
 
 
 - 🔭 I’m currently working on the I.T support team in Bom Jesus dos Perdões (SP, Brazil) town hall.
