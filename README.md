@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Kotlin, Node and React.
 - 💬 Ask me about hardware, PC specs and beer.
 - 🎓 I’m currently in the last year of college at FATEC Bragança Paulista.
-- 📫 How to reach me: Send me a message on Instagram [@sascci](https://www.instagram.com/sascci/) or email. 
+- 📫 How to reach me: Send me a message on Instagram [@sascci](https://www.instagram.com/sascci/) or email.
+- :rocket: I speak english very well.
 - ⚡ Fun fact: actually, 'Sacci' is my last name (pronunces 'Saki').
 
 
