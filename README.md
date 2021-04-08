@@ -1,4 +1,4 @@
-### Hey, whassup? 👋
+# Hey, whassup? 👋
 
 ### About me
 
