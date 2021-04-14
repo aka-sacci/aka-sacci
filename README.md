@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on the I.T support team in Bom Jesus dos Perdões (SP, Brazil) town hall.
-- 🌱 I’m currently learning Kotlin, Node and React.
+- 🌱 I’m currently learning Kotlin, Node, React and Xamarim.
 - 💬 Ask me about hardware, PC specs and beer.
 - 🎓 I’m currently in the last year of college at FATEC Bragança Paulista.
 - 📫 How to reach me: Send me a message on Instagram [@sascci](https://www.instagram.com/sascci/) or email.
